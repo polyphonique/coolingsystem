@@ -40,9 +40,11 @@
             </step>
             <step>
                 <cmd>Properly dispose of the old coolant.</cmd>
-                <info>Coolant can be disposed at a <xref
+                <info>
+                    Coolant can be disposed at a <xref
                     href="https://www.google.com/search?q=hazardous+waste+disposal+near+me"
-                    format="html" scope="external">local hazardous waste site</xref>.</info>
+                    format="html" scope="external">local hazardous waste site</xref>.
+                </info>
                 <stepresult>
                     <p>The radiator draining process is complete.</p>
                 </stepresult>
