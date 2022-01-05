@@ -12,7 +12,9 @@
             <step>
                 <cmd>Open the car's hood and find the antifreeze reservoir. Turn the radiator fill
                     cap until it hisses, wait until the hissing stops, and remove the cap.</cmd>
-                <stepresult><p>The radiator cap is removed.</p></stepresult>
+                <stepresult>
+                    <p>The radiator cap is removed.</p>
+                </stepresult>
             </step>
             <step>
                 <cmd>Place a drain pan or other large container under the drain valve (or
@@ -24,13 +26,17 @@
                 </stepresult>
             </step>
             <step>
-                <cmd>Loosen the radiator's valve to begin to drain the coolant . Allow the coolant
+                <cmd>Loosen the radiator's valve to begin to drain the coolant. Allow the coolant
                     to drain completely.</cmd>
-                <stepresult><p>The coolant is drained completely from the radiator and the antifreeze reservoir.</p></stepresult>
+                <stepresult>
+                    <p>The coolant is drained completely from the radiator and the antifreeze reservoir.</p>
+                </stepresult>
             </step>
             <step>
                 <cmd>Close the radiator valve.</cmd>
-                <stepresult><p>The radiator value is closed snugly and the radiator is ready to be flushed.</p></stepresult>
+                <stepresult>
+                    <p>The radiator value is closed snugly and the radiator is ready to be flushed.</p>
+                </stepresult>
             </step>
             <step>
                 <cmd>Properly dispose of the old coolant.</cmd>
