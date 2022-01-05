@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="water_pump_concept">
+    <title>water-pump-concept</title>
+    <shortdesc>The water pump moves coolant in the engine.</shortdesc>
+    <conbody>
+        <p>The water pump helps coolant flow throughout the engine in order to keep the car from
+            overheating.</p>
+        <p>
+            <fig id="fig_um1_5mc_dsb">
+                <title>Water Pump Assembly</title>
+                <image href="../images/water_pump.jpg" id="image_vm1_5mc_dsb">
+                    <alt>Water pump assembly</alt>
+                </image>
+            </fig>
+        </p>
+        <p><xref href="https://www.oreillyauto.com/overheating-issues" format="html"
+                scope="external">As described in oreillyauto.com</xref>, water pumps include an
+            impeller located in the engine's water channel that is driven by a pulley powered by the
+            engine’s belt. If the water pump fails, you may hear squeaking from the water pump
+            pulley, or you might notice coolant leaks or steam coming from under the hood, and the
+            engine may overheat.</p>
+        <p>If the impeller on the pump fails, the coolant is no longer circulated. Most belt-driven
+            water pumps have a weep hole that starts to leak fluid when the impeller starts to fail.
+            If there is coolant leaking from the water pump, this indicates that it may be failing
+            and may need to be replaced.</p>
+    </conbody>
+</concept>

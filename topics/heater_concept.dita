@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="heater_concept">
+    <title>heater-concept</title>
+    <shortdesc>A general description of the heater</shortdesc>
+    <conbody>
+        <p>The heater core is like a mini-radiator. It has inlet and outlet pipes and a finned copper or aluminum core through which hot coolant from the engine circulates. The heater core is located inside the HVAC plenum under the dash and usually on the passenger's side of the box.</p>
+        <p>
+            <fig id="fig_ylk_rmd_dsb">
+                <title>Heater Core</title>
+                <image href="../images/heater_core.jpg" id="image_zlk_rmd_dsb" width="50%">
+                    <alt>Diagram of the heater core and its context</alt>
+                </image>
+            </fig>
+        </p>
+        <p>When hot coolant from the engine flows through the heater core, the core gets hot and heats the air that's forced through it by the blower motor. Generally speaking, a heater should put out air that's at least 70 degrees hotter than the outside temperature. So if it's 30 degrees outside, your heater should put out at least 100 degrees F.</p>
+        <p>The hot coolant flows from the engine to the heater core through the "inlet" hose. After circulating through the core, the coolant returns to the water pump through the "outlet" or "return" hose. Both the inlet and outlet return hoses should feel hot when the engine is at normal operating temperature and the heater is on.</p>
+        <p>Reference: <xref href="https://www.aa1car.com/library/2004/us40446.htm" format="html"
+                scope="external"/></p>
+    </conbody>
+</concept>

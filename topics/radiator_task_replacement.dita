@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="radiator_task_replacement">
+    <title>radiator-task-replacement</title>
+    <shortdesc>Replacing the radiator</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task describes the task of replacing a car's radiator.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Drain the old radiator <xref href="radiator_task_draining.dita">following these
+                        instructions</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>Disconnect the radiator. Loosen the hose clamps and remove the hoses.</cmd>
+            </step>
+            <step>
+                <cmd>If the car's radiator has a transmission fluid cooler built in, disconnect the
+                    transmission line. Collect any transmission fluid and properly dispose.</cmd>
+            </step>
+            <step>
+                <cmd>Remove all  harness connections for the electrical wiring. Disconnect the fan
+                    motor's electrical connector and any other electrical connections.</cmd>
+            </step>
+            <step>
+                <cmd>Disconnect the air conditioner condenser.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the bolts from the mounting brackets.</cmd>
+            </step>
+            <step>
+                <cmd>Once it has been completely disconnected, remove the radiator from the
+                    car.</cmd>
+            </step>
+            <step>
+                <cmd>Dissamble the old radiator. Remove transferable parts like the fan shroud
+                    assembly and brackets before recycling the radiator.</cmd>
+            </step>
+            <step>
+                <cmd>Begin to install the new radiator. Connect any transferable parts to the new
+                    radiator.</cmd>
+            </step>
+            <step>
+                <cmd>Insert the radiator into the car. Be careful not to bend the fins of the
+                    radiator.</cmd>
+            </step>
+            <step>
+                <cmd>Connect the mounting brackets.</cmd>
+            </step>
+            <step>
+                <cmd>Secure the air conditioning condensor.</cmd>
+            </step>
+            <step>
+                <cmd>Plug in any wiring harnesses.</cmd>
+            </step>
+            <step>
+                <cmd>Connect the transmission coolant lines.</cmd>
+            </step>
+            <step>
+                <cmd>Connect the upper and lower hoses to the coolant reservoir. Slide the hoses
+                    onto their fittings, using channel locks to move the clamps into place.</cmd>
+            </step>
+            <step>
+                <cmd>Fill the radiator <xref href="radiator_task_refilling.dita">following these
+                        instructions</xref>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

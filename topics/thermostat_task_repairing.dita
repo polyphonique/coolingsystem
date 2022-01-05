@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="thermostat_task_repairing">
+    <title>thermostat-task-repairing</title>
+    <shortdesc>Repairing the thermostat</shortdesc>
+    <taskbody>
+        <context>
+            <p>Context for repairing the thermostat.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Replace the thermostat: https://www.aa1car.com/library/thermostat_diagnose_replace.htm</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

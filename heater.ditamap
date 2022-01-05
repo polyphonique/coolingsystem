@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>heater</title>
+    <topicref href="topics/heater_concept.dita"/>
+    <topicref href="topics/heater_task_repairing.dita"/>
+</map>

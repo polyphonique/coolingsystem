@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="radiator_task_flushing">
+    <title>radiator-task-flushing</title>
+    <shortdesc>Flushing inpurities from a radiator</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task describes how to flush a radiator of any sediment or impurities it has
+                accumulated over time. The radiator must be proerly drained before starting this
+                task.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Prepare the vehicle for the flush. Remove the radiator's valve if possible, and
+                    also remove any radiator hoses. Remove the thermostat. The heater control valve
+                    should be either in an open position or removed entirely before
+                    proceeding.</cmd>
+            </step>
+            <step>
+                <cmd>Flush the radiator with water as many times as needed until the outflow is
+                    clear.</cmd>
+            </step>
+            <step>
+                <cmd>Remember to inspect related parts like the coolant hoses, thermostat, and water
+                    pump.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

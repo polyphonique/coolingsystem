@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="thermostat_concept">
+    <title>thermostat-concept</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Concept of a thermostat.</p>
+    </conbody>
+</concept>

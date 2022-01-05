@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>cooling_system</title>
+    <mapref href="heater.ditamap" format="ditamap"/>
+    <mapref href="radiator.ditamap" format="ditamap"/>
+    <mapref href="thermostat.ditamap" format="ditamap"/>
+    <mapref href="troubleshooting.ditamap" format="ditamap"/>
+    <mapref href="water-pump.ditamap" format="ditamap"/>
+    </map>

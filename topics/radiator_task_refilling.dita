@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="radiator_task_refilling">
+    <title>radiator-task-refilling</title>
+    <shortdesc>Refilling a radiator with coolant</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task describes how to refill a car's radiator with antifreeze coolant.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Tightly close the radiator's drain valve, and make sure any hoses are properly
+                    connected.</cmd>
+            </step>
+            <step>
+                <cmd>Refill the radiator using the manufacturer's recommended coolant type.</cmd>
+            </step>
+            <step>
+                <cmd>Inspect and/or replace the radiator cap as well as the expansion tank cap (if
+                    applicable).</cmd>
+            </step>
+            <step>
+                <cmd>Start the engine and observe the coolant level. Add more coolant if
+                    needed.</cmd>
+            </step>
+            <step>
+                <cmd>Inspect the area for any leaks while the engine is on and again later once the
+                    engine has cooled.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

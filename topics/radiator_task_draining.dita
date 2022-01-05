@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="radiator_task_draining">
+    <title>radiator-task-draining</title>
+    <shortdesc>Draining coolant from a radiator</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task describes how to drain antifreeze coolant from a radiator. Make sure the
+                engine has completely cooled before beginning this task.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open the car's hood and find the antifreeze reservoir. Turn the radiator fill
+                    cap until it hisses, wait until the hissing stops, and remove the cap.</cmd>
+            </step>
+            <step>
+                <cmd>Place a drain pan or other large container under the drain valve.</cmd>
+            </step>
+            <step>
+                <cmd>Loosen the radiator's valve to begin to drain the coolant . Allow the coolant
+                    to drain completely.</cmd>
+            </step>
+            <step>
+                <cmd>Close the radiator valve.</cmd>
+            </step>
+            <step>
+                <cmd>Properly dispose of the old coolant at a <xref
+                        href="https://www.google.com/search?q=hazardous+waste+disposal+near+me"
+                        format="html" scope="external">local hazardous waste site</xref>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

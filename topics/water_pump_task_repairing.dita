@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="water_pump_task_repairing">
+    <title>water-pump-task-repairing</title>
+    <shortdesc>Common repairs for the water pump</shortdesc>
+    <taskbody>
+        <context>
+            <p>If you’ve noticed your water pump isn’t working for one reason or another—or isn’t
+                working well—there are a number of possible causes. The articles linked here explain
+                basic procedures for repairs related to the water pump.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

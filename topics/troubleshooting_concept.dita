@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="troubleshooting_concept">
+    <title>troubleshooting-concept</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>This is a troubleshooting guide for issues related to the cooling system.</p>
+        <p>
+            <fig id="fig_nzy_yqc_dsb">
+                <title>Identifying the issue</title>
+                <image href="../images/troubleshooting.jpg" id="image_ozy_yqc_dsb" width="50%">
+                    <alt>Woman repairing a car in auto repair shop - stock photo</alt>
+                </image>
+            </fig>
+        </p>
+        <p>Pay attention to some of the signs that suggest common cooling system problems.</p>
+    </conbody>
+</concept>

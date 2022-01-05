@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="heater_task_repairing">
+    <title>heater-task-repairing</title>
+    <shortdesc>Common repairs for the car heating system</shortdesc>
+    <taskbody>
+        <context>
+            <p>If you’ve noticed your heater isn’t working for one reason or another—or isn’t
+                working well—there are a number of possible causes. The articles linked here explain
+                basic procedures for repairs related to the car heating system.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>How to replace the blower motor: https://www.oreillyauto.com/how-to-hub/how-to-replace-blower-motor</cmd>
+            </step>
+            <step>
+                <cmd>How to change the cabin air filter: https://www.oreillyauto.com/how-to-hub/diy-change-cabin-air-filter</cmd>
+            </step>
+            <step>
+                <cmd>Checking and replacing fuses: https://www.toyotaguru.us/prius-2010-manual/checking-and-replacing-fuses.html
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

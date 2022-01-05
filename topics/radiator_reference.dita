@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="radiator_reference">
+    <title>radiator-reference</title>
+    <shortdesc>Reference of radiator parts</shortdesc>
+         <refbody>
+             <section id="1">
+             <simpletable>
+                 <sthead>
+                     <stentry>Part</stentry>
+                     <stentry>Prius Part</stentry>
+                     <stentry>MSRP</stentry>
+                     <stentry>Description</stentry>
+                 </sthead>
+                 <strow>
+                     <stentry>Radiator Assembly</stentry>
+                     <stentry>16410AZ020</stentry>
+                     <stentry>184.55</stentry>
+                     <stentry>The radiator assembly</stentry>
+                 </strow>
+                 <strow>
+                     <stentry>Radiator Coolant Hose</stentry>
+                     <stentry>1657137140</stentry>
+                     <stentry>26.35</stentry>
+                     <stentry>Assemblies: Radiator and Water Outlet</stentry>
+                 </strow>
+                 <strow>
+                     <stentry>Engine Coolant Hose</stentry>
+                     <stentry>1626737050</stentry>
+                     <stentry>21.76</stentry>
+                     <stentry>Assemblies: Radiator and Water Outlet</stentry>
+                 </strow>
+                 <strow>
+                     <stentry>Radiator Hose Clamp</stentry>
+                     <stentry>9613644301</stentry>
+                     <stentry>11.58</stentry>
+                     <stentry>Item also used in exhaust and electrical systems.</stentry>
+                 </strow>
+                 <strow>
+                     <stentry>Prestone Antifreeze / Coolant</stentry>
+                     <stentry>AF2000</stentry>
+                     <stentry>17.99</stentry>
+                     <stentry>Many other coolant brands are acceptable.</stentry>
+                 </strow>
+             </simpletable>
+             </section>
+             <section id="2">
+                 <fig id="radiator_parts">
+                <title>Prius radiator parts</title>
+                <image href="../images/radiator_parts.jpg" id="radiator_parts_image" width="50%">
+                    <alt>Diagram of parts related to a Prius radiator</alt>
+                </image>
+            </fig>                 
+             </section>
+        </refbody>
+    </reference>
