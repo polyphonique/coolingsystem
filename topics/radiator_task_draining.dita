@@ -12,11 +12,10 @@
             <step>
                 <cmd>Open the car's hood and find the antifreeze reservoir. Turn the radiator fill
                     cap until it hisses, wait until the hissing stops, and remove the cap.</cmd>
-                <info>This is info</info>
                 <stepresult><p>The radiator cap is removed.</p></stepresult>
             </step>
             <step>
-                <cmd>Place a drain pan or other large container under the drain valve  (or
+                <cmd>Place a drain pan or other large container under the drain valve (or
                     "petcock").</cmd>
                 <info>Some radiators may drain from a radiator hose rather than a valve.</info>
                 <stepresult>
