@@ -2,9 +2,14 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="radiator_reference">
     <title>radiator-reference</title>
-    <shortdesc>Reference of radiator parts</shortdesc>
+    <shortdesc>Reference of 2012 Prius radiator parts</shortdesc>
          <refbody>
-             <section id="1">
+             <section id="radiator_parts_overview">
+                 <title>Overview</title>
+                 <p>These are some common Toyota parts related to the radiator of a 2012 Toyota Prius.</p>                 
+             </section>
+             
+             <section id="radiator_parts_table_section">
              <simpletable>
                  <sthead>
                      <stentry>Part</stentry>
@@ -44,13 +49,21 @@
                  </strow>
              </simpletable>
              </section>
-             <section id="2">
-                 <fig id="radiator_parts">
+             
+             <section id="radiator_parts_image_section">
+                 <fig id="radiator_parts_figure">
                 <title>Prius radiator parts</title>
-                <image href="../images/radiator_parts.jpg" id="radiator_parts_image" width="50%">
+                <image href="../images/radiator_parts.jpg" id="radiator_parts_image" width="10em">
                     <alt>Diagram of parts related to a Prius radiator</alt>
                 </image>
             </fig>                 
              </section>
         </refbody>
+    
+    <related-links>
+        <link format="html" href="https://parts.toyota.com/Toyota_2012_Prius.html"
+            scope="external">
+            <linktext>2012 Toyota Prius Parts</linktext>
+        </link>
+    </related-links>
     </reference>

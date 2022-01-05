@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="radiator_concept">
     <title>radiator-concept</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Concept of a radiator</shortdesc>
     <conbody>
         <p>The radiator is a part of the car's cooling system. Engine coolant passes through the
             radiator—which is essentially a series of long tubes—and back through the engine. The
@@ -10,7 +10,7 @@
             The flow of coolant into the radiator is powered by the water pump.</p>
         <p><image href="../images/radiator.jpg" scale="50" id="image_rrq_zhd_dsb"
                 alt="Prius radiator assembly"/></p>
-        <ul id="ul_vyy_djk_dsb">
+        <p><ul id="ul_vyy_djk_dsb">
             <li>The most common reason for radiator failure is internal corrosion, which can have
                 multiple causes. If the coolant is not changed regularly for preventive maintenance,
                 the coolant can turn acidic and eat away the radiator from the inside out.</li>
@@ -28,10 +28,16 @@
                 split, or fail due to heat, age, and use.</li>
             <li>The radiator may also clog internally or develop leaks, which may cause visible
                 coolant leaks or steam coming from under the hood.</li>
-        </ul>
-        <p>Reference: <xref href="https://www.wikihow.com/Change-a-Car-Radiator" format="html"
-                scope="external"/></p>
-        <p>Reference: <xref href="https://www.aa1car.com/library/radiator_repair.htm" format="html"
-                scope="external"/></p>
+        </ul></p>
     </conbody>
+    
+    <related-links>
+        <link format="html" href="https://www.wikihow.com/Change-a-Car-Radiator" scope="external">
+            <linktext>WikiHow: How to Change a Car Radiator</linktext>
+        </link>
+        <link format="html" href="https://www.aa1car.com/library/radiator_repair.htm" scope="external">
+            <linktext>AA1Car.com: Radiator Repair and Replacement</linktext>
+        </link>
+    </related-links>
+    
 </concept>

@@ -12,21 +12,33 @@
             <step>
                 <cmd>Open the car's hood and find the antifreeze reservoir. Turn the radiator fill
                     cap until it hisses, wait until the hissing stops, and remove the cap.</cmd>
+                <info>This is info</info>
+                <stepresult><p>The radiator cap is removed.</p></stepresult>
             </step>
             <step>
-                <cmd>Place a drain pan or other large container under the drain valve.</cmd>
+                <cmd>Place a drain pan or other large container under the drain valve  (or
+                    "petcock").</cmd>
+                <info>Some radiators may drain from a radiator hose rather than a valve.</info>
+                <stepresult>
+                    <p>The drain pan is properly situated to collect the radiator's used
+                        coolant.</p>
+                </stepresult>
             </step>
             <step>
                 <cmd>Loosen the radiator's valve to begin to drain the coolant . Allow the coolant
                     to drain completely.</cmd>
+                <stepresult><p>The coolant is drained completely from the radiator and the antifreeze reservoir.</p></stepresult>
             </step>
             <step>
                 <cmd>Close the radiator valve.</cmd>
+                <stepresult><p>The radiator value is closed snugly and the radiator is ready to be flushed.</p></stepresult>
             </step>
             <step>
-                <cmd>Properly dispose of the old coolant at a <xref
-                        href="https://www.google.com/search?q=hazardous+waste+disposal+near+me"
-                        format="html" scope="external">local hazardous waste site</xref>.</cmd>
+                <cmd>Properly dispose of the old coolant.</cmd>
+                <info>Coolant can be disposed at a <xref
+                    href="https://www.google.com/search?q=hazardous+waste+disposal+near+me"
+                    format="html" scope="external">local hazardous waste site</xref>.</info>
+                <stepresult><p>The radiator draining process is complete.</p></stepresult>
             </step>
         </steps>
     </taskbody>
